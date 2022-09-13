@@ -2109,7 +2109,7 @@ a.scroll-down.scroll-yt {
 /* #shortcodes
 ================================================== */
 
-/* .shortcodes-top {
+.shortcodes-top {
 	position:relative;
 	width:100%;
 	overflow:hidden;
@@ -2616,7 +2616,7 @@ a.scroll-down.scroll-yt {
 .smk_accordion.acc_with_icon .accordion_in .acc_head,
 .smk_accordion.acc_with_icon .accordion_in .acc_content {
   padding-left: 40px;
-} */
+}
 
 
 
